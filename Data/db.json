@@ -1,0 +1,39 @@
+{
+  "sampleListings": [
+    {
+      "id": "83f8",
+      "image": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/b2a5ffc1-85a9-4afb-8129-f454aa7a6c68/air-max-excee-shoes-Q4cpDM.png",
+      "title": "Nike Air Max Excee",
+      "price": "8695.00",
+      "description": "Mens Shoes"
+    },
+    {
+      "id": "10f8",
+      "image": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/4b24bc11-4ea0-4ee5-8d16-aa58b518475b/air-force-1-07-fresh-shoes-bBRnbq.png",
+      "title": "Nike Air Force 1'07 Fresh",
+      "price": "11295.00",
+      "description": "White "
+    },
+    {
+      "id": "7903",
+      "image": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/f4b01f50-eb81-4391-817d-fc299d349420/sb-force-58-skate-shoes-LJNW5L.png",
+      "title": "Nike SB Force F8",
+      "price": "6285.00",
+      "description": "Skate Shoes"
+    },
+    {
+      "id": "1e1a",
+      "image": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/92a99c98-e06c-4376-ad68-ab11a46f2faa/air-max-dn-shoes-FtLNfm.png",
+      "title": "Nike Air Max DN",
+      "price": "11270.00",
+      "description": "1 Colour"
+    },
+    {
+      "id": "2af5",
+      "image": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/u_126ab356-44d8-4a06-89b4-fcdcc8df0245,c_scale,fl_relative,w_1.0,h_1.0,fl_layer_apply/85b5912e-adb1-45b2-81b6-48feca3ce325/jordan-sport-mesh-shorts-4TgFLQ.png",
+      "title": "Jordan Air ",
+      "price": "8890.00",
+      "description": "Women"
+    }
+  ]
+}
